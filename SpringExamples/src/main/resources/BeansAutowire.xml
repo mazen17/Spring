@@ -19,7 +19,4 @@
 
     <bean id="marketDao" class="de.kreidler.sarah.dao.MarketDao"/>
 
-
-
-
 </beans>
